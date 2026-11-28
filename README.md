@@ -2,7 +2,9 @@
 
 | プロジェクト | 概要 | リンク |
 | :--- | :--- | :--- |
-| **藤沢市北部PoC** | 交通空白地を可視化し、追加乗り場案の効果を比較 | [🌐 ウェブサイト](https://plateau-transit-poc.vercel.app/) ／  [🌐 機能紹介](https://qiita.com/ayago/items/6a2ed983fba09e432110)|
+| **横浜市営バス遅延 × シェアサイクル** | 横浜市営バスの遅延と近隣シェアサイクルの空き状況を可視化、代替可否や所要時間比較に加え、蓄積データからポート不足地点も分析可能 | [🌐 ウェブサイト](https://odpt-yokohama-bus-687077680653.asia-northeast1.run.app/) |
+| **広島県インフラ維持管理・修繕優先度** | 広島県の橋梁・トンネルの老朽度に加え、通行止め時の迂回・救急搬送影響と2040年人口を解析し、修繕優先度と集約候補を可視化 | [🌐 ウェブサイト](https://www.bodik.jp/) |
+| **藤沢市北部PoC** | 坂道・道路網とバスの運行頻度から時間帯別の交通空白地を3Dで可視化し、バス停増設やモビリティハブの効果を試算できるWebアプリ。 | [🌐 ウェブサイト](https://plateau-transit-poc.vercel.app/) ／  [🌐 機能紹介](https://qiita.com/ayago/items/6a2ed983fba09e432110)|
 | **花粉飛散量ダッシュボード** | 花粉の飛散状況を時間ごと＆日ごとに可視化 | [🌐 ウェブサイト](https://kafun.pages.dev/) |
 | **お札の旅** | 日本円紙幣の移動をみんなで追跡するプロジェクト | [🌐 ウェブサイト](https://osatsu-no-tabi.ayago.workers.dev/) |
 | **迷わないおでかけ紙** | 駅構内のオープンデータを活用し、わかりやすい移動案内を自動生成 | <nobr>[🌐 ウェブサイト](https://odekake-paper.vercel.app/) ／ [🎬 紹介動画](https://www.youtube.com/watch?v=LOo5i-2m4jM)</nobr> |
